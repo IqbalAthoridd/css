@@ -1,0 +1,41 @@
+.tengah{
+    text-align: center;
+    text-decoration: overline;
+}
+
+.kiri {
+    text-align: left;
+    text-decoration-line: underline;
+}
+ .kanan {
+     text-align: right;
+     text-decoration-line: line-through;
+     text-transform: lowercase;
+ }
+
+ .kirikanan {
+     text-align: justify;
+     text-transform: uppercase;
+ }
+ a {
+     text-decoration-line: none;
+ }
+ 
+ table,td,th {
+     border: 1px solid black;
+ }
+
+ table {
+     border-collapse: collapse;
+     width : 100%;
+ }
+
+ th{
+     height: 60px;
+     text-align: left;
+     vertical-align: middle;
+ }
+
+ .hov:hover {
+    background-color: orange;
+ }

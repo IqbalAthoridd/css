@@ -1,0 +1,43 @@
+.content {
+    background-color: #ededed;
+    box-shadow: 2px 5px 5px grey;
+}
+
+.hed {
+    margin: 0px;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #333;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+p {
+    margin-top: -5px;
+    columns: 3;
+    column-rule: 3px solid black;
+    text-align: justify;
+}
+
+.footer {
+background-color: black;
+text-align: center;
+color: white;
+padding-bottom: 5px;
+}

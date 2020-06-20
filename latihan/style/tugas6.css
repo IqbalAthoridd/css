@@ -1,0 +1,23 @@
+p.satu {
+    background-color: #03fce3;
+    height: 100px;
+    width: 350px;
+    overflow: scroll;
+    border: 10px dotted #fc2003;
+}
+
+p.dua {
+    background-color: #03fce3 ;
+    height: 100px;
+    width: 350px;
+    overflow: scroll;
+    border: 5px solid #0e8f26;
+}
+
+p.tiga {
+    background-color:#03fce3 ;
+    height: 100px;
+    width: 350px;
+    overflow: scroll;
+    border: 25px dashed #0e0e8f;
+}
